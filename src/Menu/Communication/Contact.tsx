@@ -9,7 +9,7 @@ const MenuItem = {
             <div>
                 <Typography.Title>联系站长</Typography.Title>
                 <Descriptions title="联系方式" bordered column={1}>
-                    <Descriptions.Item label="个人博客（存放文本内容）">https://home.cnblogs.com/u/BDFFZI</Descriptions.Item>
+                    <Descriptions.Item label="个人博客（存放文本内容）">https://bdffzi.gitee.io/page.blog/</Descriptions.Item>
                     <Descriptions.Item label="Bilibili（主要发布源，以及观看视频内容）">https://space.bilibili.com/35949109</Descriptions.Item>
                     <Descriptions.Item label="Github（所有项目均开源，欢迎技术反馈或贡献）">https://github.com/BDFFZI</Descriptions.Item>
                     <Descriptions.Item label="QQ群（充当社区功能，闲聊讨论的地方）">821799499</Descriptions.Item>

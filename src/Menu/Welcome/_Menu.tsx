@@ -33,7 +33,7 @@ function Page() {
             backgroundPosition: "center left"
         }}>
             <Layout.Header style={{ height: "auto", padding: "24px" }}>
-                <Typography.Paragraph type="danger">站长已半退坑，除了后续的Mod教程和V4汉化外，只会进行维护性更新。</Typography.Paragraph>
+                <Typography.Paragraph type="danger">站长已半退坑，除了后续的V4汉化外，只会进行维护性更新。</Typography.Paragraph>
                 <Space direction="vertical">
                     <Alert
                         showIcon

@@ -2,6 +2,10 @@ import { ReactNode } from "react";
 
 const Log: { time: string; content: ReactNode }[] = [
   {
+    time: "2024.5.7",
+    content: "gitee的网页托管服务凉了，更换服务商和相关链接。",
+  },
+  {
     time: "2024.2.9",
     content: "Mod制作教程完结。",
   },

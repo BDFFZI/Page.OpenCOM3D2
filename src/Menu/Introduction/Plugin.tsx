@@ -23,9 +23,9 @@ const MenuItem = {
                 </div>
                 <Card title="CMI 下载地址">
                     <Space>
-                        <ButtonLink href={Links.get("COM3D2插件整合包_下载")}>官方地址</ButtonLink>
+                        <ButtonLink href={Links.get("COM3D2插件整合包_下载")}>官方地址（CMI.2.5.18.2.zip）</ButtonLink>
                         <ButtonLink href="https://mod.3dmgame.com/mod/186198">3DM下载（略旧）</ButtonLink>
-                        <Button disabled>实在下不了也可以进群自取</Button>
+                        <ButtonLink href="/#/Communiction/Contact">实在下不了也可以进群自取</ButtonLink>
                     </Space>
                 </Card>
                 <Alert showIcon message="确保你的游戏路径没有中文，部分插件不支持中文路径。" type="error" />

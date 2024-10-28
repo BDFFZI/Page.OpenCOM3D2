@@ -2,12 +2,12 @@ import { ReactNode } from "react";
 
 const Log: { time: string; content: ReactNode }[] = [
   {
-    time: "2024.9.14",
-    content: "将CMI官方的下载链接固定为了旧版，这样就不会提示游戏版本过低了。",
+    time: "2024.10.28",
+    content: "Issue问答贴的链接被拦截了，修改。",
   },
   {
-    time: "2024.5.7",
-    content: "gitee的网页托管服务凉了，更换服务商和相关链接。",
+    time: "2024.9.14",
+    content: "将CMI官方的下载链接固定为了旧版，这样就不会提示游戏版本过低了。",
   },
   {
     time: "2024.5.7",

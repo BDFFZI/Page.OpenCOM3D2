@@ -32,13 +32,13 @@ function Page() {
         }}
       >
         <Layout.Header style={{ height: "auto", padding: "24px" }}>
-          <Typography.Paragraph type="danger">这只是一个个人信息收集站，站长已经弃坑，目前只会进行维护性更新。</Typography.Paragraph>
+          <Typography.Paragraph type="danger">这只是一个个人信息收集站，站长已于2024.2.9弃坑。虽然你依旧可以借此获取游戏，但这些已经很旧了。</Typography.Paragraph>
           <Space direction="vertical">
             <Alert showIcon type="warning" message="如果你现在仍有要解决的问题，请查看“入门-常见问题”分栏，这是解决任何问题的办法，且长期有效。"></Alert>
             <Alert
               showIcon
               type="info"
-              message={<div>如果你希望加入群聊，我在“沟通-联系站长”分栏中留了一个闲聊群，但人数不多，可能不是你想找的大部队。</div>}
+              message={<div>如果你希望加入群聊，我在“沟通-联系站长”分栏中留了一个闲聊群，虽然我基本不管它，但里面有不少网友分享的好东西。</div>}
             ></Alert>
           </Space>
         </Layout.Header>

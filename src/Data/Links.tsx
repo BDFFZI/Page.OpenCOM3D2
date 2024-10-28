@@ -52,7 +52,7 @@ Links.set("AnimeSharing", "https://www.anime-sharing.com/");
 Links.set("qBittorrent", "https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases");
 Links.set("COM3D2.5纯本体下载", "https://www.bilibili.com/read/cv21018824/");
 Links.set("COM3D2插件整合包", "https://krypto5863.github.io/COM-Modular-Installer/");
-Links.set("COM3D2插件整合包_下载", "https://krypto5863.github.io/COM-Modular-Installer/download.html");
+Links.set("COM3D2插件整合包_下载", "https://github.com/krypto5863/COM-Modular-Installer/releases/tag/2.5.18.2");
 Links.set("COM3D2工具插件收集", "https://motimoti3d.jp/blog-entry-590.html");
 Links.set("COM3D2Mod搜索_Mukuu", "https://mukuu.herokuapp.com/")
 Links.set("COM3D2Mod分享_3DM", "https://mod.3dmgame.com/COM3D2")

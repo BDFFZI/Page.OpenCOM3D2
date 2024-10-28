@@ -11,22 +11,22 @@ const MenuItem = {
           <blockquote>搞定动漫角色最重要的特征点，让别人看了能直呼老婆！</blockquote>
           <Card title="文字教程" type="inner">
             <Space direction="vertical">
-              <Typography.Link href="https://bdffzi.gitee.io/page.blog/posts/2633666094.html" target="_blank">
+              <Typography.Link href="https://bdffzi-blog.pages.dev/posts/2633666094" target="_blank">
                 【COM3D2Mod 制作教程（1）】教程简介（含前置要求，必读！！！）
               </Typography.Link>
-              <Typography.Link href="https://bdffzi.gitee.io/page.blog/posts/4079335571.html" target="_blank">
+              <Typography.Link href="https://bdffzi-blog.pages.dev/posts/4079335571" target="_blank">
                 【COM3D2Mod 制作教程（2）】Mod 底层原理
               </Typography.Link>
-              <Typography.Link href="https://bdffzi.gitee.io/page.blog/posts/41755669.html" target="_blank">
+              <Typography.Link href="https://bdffzi-blog.pages.dev/posts/41755669" target="_blank">
                 【COM3D2Mod 制作教程（3）】Mod 制作概要
               </Typography.Link>
-              <Typography.Link href="https://bdffzi.gitee.io/page.blog/posts/2178139815.html" target="_blank">
+              <Typography.Link href="https://bdffzi-blog.pages.dev/posts/2178139815" target="_blank">
                 【COM3D2Mod 制作教程（4）】实战！制作身体部分（上）
               </Typography.Link>
-              <Typography.Link href="https://bdffzi.gitee.io/page.blog/posts/4213549019.html" target="_blank">
+              <Typography.Link href="https://bdffzi-blog.pages.dev/posts/4213549019" target="_blank">
                 【COM3D2Mod 制作教程（5）】实战！制作身体部分（中）
               </Typography.Link>
-              <Typography.Link href="https://bdffzi.gitee.io/page.blog/posts/3074968628.html" target="_blank">
+              <Typography.Link href="https://bdffzi-blog.pages.dev/posts/3074968628" target="_blank">
                 【COM3D2Mod 制作教程（6）】实战！制作身体部分（下）
               </Typography.Link>
             </Space>
@@ -50,10 +50,10 @@ const MenuItem = {
           <blockquote>让老婆能穿上自己的原设衣装，让别人看了能直呼大佬！</blockquote>
           <Card title="文字教程" type="inner">
             <Space direction="vertical">
-              <Typography.Link href="https://bdffzi.gitee.io/page.blog/posts/4186352253.html" target="_blank">
+              <Typography.Link href="https://bdffzi-blog.pages.dev/posts/4186352253" target="_blank">
                 【COM3D2Mod 制作教程（7）】实战！制作衣服部分（上）
               </Typography.Link>
-              <Typography.Link href="https://bdffzi.gitee.io/page.blog/posts/440186531.html" target="_blank">
+              <Typography.Link href="https://bdffzi-blog.pages.dev/posts/440186531" target="_blank">
                 【COM3D2Mod 制作教程（8）】实战！制作衣服部分（下）
               </Typography.Link>
             </Space>

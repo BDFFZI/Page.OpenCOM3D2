@@ -12,7 +12,7 @@
 /coverage
 
 # production(但我得发布啊)
-/build
+# /build
 
 # misc
 .DS_Store

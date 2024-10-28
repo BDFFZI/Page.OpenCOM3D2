@@ -13,7 +13,7 @@ const MenuItem = {
             message="【常见问题】遇到了任何问题都可以先查看Issue，或许你的问题早已被其他人解决过！"
             description={<ButtonLink
                 style={{ maxWidth: "500px" }}
-                href="https://gitee.com/bdffzi/Page.OpenCOM3D2/issues?state=closed">
+                href="https://gitee.com/bdffzi/Page.OpenCOM3D2/issues">
                 往期问答贴
             </ButtonLink>}
         />

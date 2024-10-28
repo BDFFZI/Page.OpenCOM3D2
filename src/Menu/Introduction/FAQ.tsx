@@ -62,7 +62,7 @@ const MenuItem = {
                     <ButtonLink
                         style={{ maxWidth: "500px" }}
                         href={"https://gitee.com/bdffzi/Page.OpenCOM3D2/issues"}>
-                        通过Issue查看或发布你的任何问题
+                        通过Issue查看或发布你的任何问题（请自行右键复制链接打开）
                     </ButtonLink>
                 </div>
             }

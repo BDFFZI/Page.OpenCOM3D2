@@ -2,6 +2,10 @@ import { ReactNode } from "react";
 
 const Log: { time: string; content: ReactNode }[] = [
   {
+    time: "2026.1.28",
+    content: "交流群连吃三个月举报，最终不敌恶意爆破，但有群友通过没联网的qq拉到了很多老成员，成立了新交流群，故更换群号。",
+  },
+  {
     time: "2024.10.28",
     content: "Issue问答贴的链接被拦截了，修改。",
   },

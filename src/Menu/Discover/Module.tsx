@@ -22,7 +22,7 @@ const MenuItem = {
     page: () => {
         const texts1 = [
             {
-                href: "https://mod.3dmgame.com/u/8101706/Home",
+                href: "https://mod.3dmgame.com/u/8101706",
                 text: "个人Mod收集分享",
                 content: <div>
                     <ul>

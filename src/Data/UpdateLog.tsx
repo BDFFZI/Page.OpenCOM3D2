@@ -2,6 +2,10 @@ import { ReactNode } from "react";
 
 const Log: { time: string; content: ReactNode }[] = [
   {
+    time: "2026.8.22",
+    content: "老群解散了，重新创建了新群。",
+  },
+  {
     time: "2026.5.7",
     content: "群又被爆破了，com3d这个圈子显然非常不欢迎公开社区，只能用二级群跳转的方式来保持聊天群的存在了，所以重新将老群作为默认入口。",
   },
